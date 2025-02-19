@@ -15,31 +15,31 @@
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"HEADER_SECONDARY": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"TEXT_NORMAL": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"TEXT_SECONDARY": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"TEXT_PRIMARY": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"INTERACTIVE_HOVER": [
             "#181818"
         ],
 		"INTERACTIVE_ACTIVE": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
             "#2A2A2A"
@@ -78,10 +78,10 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#181818"
@@ -96,13 +96,13 @@
             "#181818D0"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#596EA940"
+            "#5A6FAA40"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -120,13 +120,13 @@
             "#181818"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#00000000"
         ],
 		"ANDROID_RIPPLE": [
-            "#5A6FAA30"
+            "#FFFFFF30"
         ],
 		"BG_BASE_PRIMARY": [
             "#000000"
@@ -141,31 +141,31 @@
             "#090909"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"CHANNELS_DEFAULT": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"TEXT_DANGER": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#596EA9"
+            "#5A6FAA"
         ],
 		"CHANNEL_ICON": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"CHAT_BACKGROUND": [
             "#000000"
@@ -174,7 +174,7 @@
             "#000000"
         ],
 		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#5A6FAA"
+            "#FFFFFF"
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
@@ -186,33 +186,33 @@
         ]
 	},
 	"rawColors": {
-		"PRIMARY_200": "#596EA9",
-		"PRIMARY_230": "#5A6FAA",
-		"PRIMARY_300": "#5A6FAA",
+		"PRIMARY_200": "#5A6FAA",
+		"PRIMARY_230": "#FFFFFF",
+		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_500": "#000000",
 		"PRIMARY_600": "#181818",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
-		"PRIMARY_800": "#596EA970",
-		"BRAND_260": "#596EA9",
-		"BRAND_360": "#596EA9",
+		"PRIMARY_800": "#5A6FAA70",
+		"BRAND_260": "#5A6FAA",
+		"BRAND_360": "#5A6FAA",
 		"BRAND_500": "#1A1A1A",
 		"BRAND_560": "#000000",
 		"RED_400": "#303030",
 		"RED_430": "#000000",
-		"GREEN_360": "#596EA9",
+		"GREEN_360": "#5A6FAA",
 		"GREEN_430": "#000000",
-		"WHITE_500": "#5A6FAA",
-		"BLUE_345": "#596EA9",
-		"PLUM_1": "#596EA9",
-		"PLUM_3": "#596EA9",
-		"PLUM_6": "#5A6FAA",
-		"PLUM_9": "#596EA9",
-		"PLUM_11": "#596EA9",
-		"PLUM_13": "#596EA9",
+		"WHITE_500": "#FFFFFF",
+		"BLUE_345": "#5A6FAA",
+		"PLUM_1": "#5A6FAA",
+		"PLUM_3": "#5A6FAA",
+		"PLUM_6": "#FFFFFF",
+		"PLUM_9": "#5A6FAA",
+		"PLUM_11": "#5A6FAA",
+		"PLUM_13": "#5A6FAA",
 		"PLUM_14": "#000000",
 		"PLUM_15": "#202020",
-		"PLUM_16": "#596EA970",
+		"PLUM_16": "#5A6FAA70",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#020202",
 		"PLUM_19": "#000000",
