@@ -1,45 +1,45 @@
 {
-	"name": "RBW AMOLED",
-	"description": "AMOLED black base, using red, white & grey for everything else",
+	"name": "Jo Blue AMOLED",
+	"description": "Modified version of tu__r__bo's RBW AMOLED theme",
 	"version": "1",
 	"authors": [
 		{
-			"name": "tu__r__bo",
-			"id": "288054683161853952"
+			"name": "KuletXCore",
+			"id": "137010548888829952"
         }
     ],
 	"plus": {
 		"version": 0,
-		"mentionLineColor": "#fff",
+		"mentionLineColor": "#8298EB",
 		"iconpack": "solarbroken"
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"HEADER_SECONDARY": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"TEXT_NORMAL": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"TEXT_SECONDARY": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"TEXT_MUTED": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"INTERACTIVE_HOVER": [
             "#181818"
         ],
 		"INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"INTERACTIVE_MUTED": [
             "#2A2A2A"
@@ -78,10 +78,10 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#181818"
@@ -96,13 +96,13 @@
             "#181818D0"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#ED024340"
+            "#5A6FAA40"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -120,13 +120,13 @@
             "#181818"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#00000000"
         ],
 		"ANDROID_RIPPLE": [
-            "#FFFFFF30"
+            "#596EA930"
         ],
 		"BG_BASE_PRIMARY": [
             "#000000"
@@ -141,31 +141,31 @@
             "#090909"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"CHANNELS_DEFAULT": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"TEXT_LINK": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"TEXT_DANGER": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"KEYBOARD": [
-            "#ED0243"
+            "#5A6FAA"
         ],
 		"CHANNEL_ICON": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"CHAT_BACKGROUND": [
             "#000000"
@@ -174,7 +174,7 @@
             "#000000"
         ],
 		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FFFFFF"
+            "#596EA9"
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
@@ -186,33 +186,33 @@
         ]
 	},
 	"rawColors": {
-		"PRIMARY_200": "#ED0243",
-		"PRIMARY_230": "#FFFFFF",
-		"PRIMARY_300": "#FFFFFF",
+		"PRIMARY_200": "#5A6FAA",
+		"PRIMARY_230": "#596EA9",
+		"PRIMARY_300": "#596EA9",
 		"PRIMARY_500": "#000000",
 		"PRIMARY_600": "#181818",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
-		"PRIMARY_800": "#ED024370",
-		"BRAND_260": "#ED0243",
-		"BRAND_360": "#ED0243",
+		"PRIMARY_800": "#5A6FAA70",
+		"BRAND_260": "#5A6FAA",
+		"BRAND_360": "#5A6FAA",
 		"BRAND_500": "#1A1A1A",
 		"BRAND_560": "#000000",
 		"RED_400": "#303030",
 		"RED_430": "#000000",
-		"GREEN_360": "#ED0243",
+		"GREEN_360": "#5A6FAA",
 		"GREEN_430": "#000000",
-		"WHITE_500": "#FFFFFF",
-		"BLUE_345": "#ED0243",
-		"PLUM_1": "#ED0243",
-		"PLUM_3": "#ED0243",
-		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#ED0243",
-		"PLUM_11": "#ED0243",
-		"PLUM_13": "#ED0243",
+		"WHITE_500": "#596EA9",
+		"BLUE_345": "#5A6FAA",
+		"PLUM_1": "#5A6FAA",
+		"PLUM_3": "#5A6FAA",
+		"PLUM_6": "#596EA9",
+		"PLUM_9": "#5A6FAA",
+		"PLUM_11": "#5A6FAA",
+		"PLUM_13": "#5A6FAA",
 		"PLUM_14": "#000000",
 		"PLUM_15": "#202020",
-		"PLUM_16": "#ED024370",
+		"PLUM_16": "#5A6FAA70",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#020202",
 		"PLUM_19": "#000000",
