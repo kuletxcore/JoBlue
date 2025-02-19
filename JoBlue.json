@@ -11,7 +11,7 @@
 	"plus": {
 		"version": 0,
 		"mentionLineColor": "#8298EB",
-		"iconpack": "solarbroken",
+		"iconpack": "materialtwotone",
 		"customOverlays": true,
    "icons":{
       "AccessibilityIcon": "#a79ab3",
